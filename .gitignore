@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/workspace.xml
+game/__pycache__/
+game/flappy_bird_utils.pyc
+game/wrapped_flappy_bird.pyc
